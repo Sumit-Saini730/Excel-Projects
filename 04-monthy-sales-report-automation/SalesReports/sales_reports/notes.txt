@@ -1,0 +1,2 @@
+Internal note: monthly sales exports. Please do not edit these files by hand.
+This text file is not a sales report and should not be loaded into the analysis.
